@@ -1,109 +1,143 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="300" alt="Coding gif"/>
 
-  # Hey, I'm Suyog Shejal! 👋
+<!-- Animated Name Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suyog%20Shejal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Android%20Dev%20%7C%20Jetpack%20Compose%20%7C%20React%20Native&descAlignY=55&descSize=16" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Android+Dev+%7C+React+Native+%7C+Jetpack+Compose;4+Apps+Live+on+Play+Store+%F0%9F%9A%80;1700%2B+Downloads+%26+Counting+%F0%9F"''"%93%88;Always+Building%2C+Always+Shipping+%F0%9F%9B%A0)](https://git.io/typing-svg)
+<!-- Animated Typing -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=📱+4+Apps+Live+on+Google+Play+Store;🚀+1700%2B+Downloads+%26+Counting;⚡+Jetpack+Compose+%7C+React+Native+%7C+Kotlin;🤖+Building+AI-Powered+Android+Apps;🔥+I+Don't+Just+Code+—+I+Ship!)](https://git.io/typing-svg)
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-shejal-8637a3316/)
-  [![Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](https://play.google.com/store/search?q=suyog+shejal&c=apps)
-  [![Profile Views](https://visitcount.itsvg.in/api?id=suyogshejal2004&icon=0&color=6)](https://visitcount.itsvg.in)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suyog-shejal-8637a3316/)
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/search?q=suyog+shejal&c=apps)
+[![GitHub followers](https://img.shields.io/github/followers/suyogshejal2004?style=for-the-badge&logo=github&logoColor=white&color=6C63FF)](https://github.com/suyogshejal2004)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 📱 **Android & Full Stack Developer** — I don't just learn to code, I **ship real apps**
-- 🏪 **4 apps published on the Google Play Store** with **1700+ downloads**
-- 🔥 Passionate about **Jetpack Compose**, **React Native**, and building cool mobile experiences
-- 🤖 Currently exploring **AI integration** in mobile apps (photo scan, text log, and more)
-- 🌱 Always chasing the next framework, pattern, or tool worth learning
-- 📍 Based in **Nashik, India**
-
----
-
-## 📱 Apps on the Play Store
-
-> Real apps. Real users. Real downloads.
-
-### 💧 AquaAlert — Hydration Reminder
-[![Play Store](https://img.shields.io/badge/Download-AquaAlert-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suyogshejal.aquaalert)
-![Downloads](https://img.shields.io/badge/Downloads-1700%2B-blue?style=for-the-badge)
-
-- Built with **React Native CLI**
-- Reminds users to drink water throughout the day
-- 🏆 Most downloaded app — **1700+ downloads**
+```kotlin
+data class Developer(
+    val name: String       = "Suyog Shejal",
+    val location: String   = "Nashik, India 🇮🇳",
+    val role: String       = "Android & Full Stack Developer",
+    val appsOnPlayStore: Int = 4,
+    val totalDownloads: String = "1700+",
+    val currentlyBuilding: String = "AI-Powered Calorie Tracker 🤖",
+    val learning: List<String> = listOf("Jetpack Compose", "Flutter", "AI Integration"),
+    val funFact: String    = "I don't just learn to code — I ship to the Play Store 🚀"
+)
+```
 
 ---
 
-### 👟 Step Tracker
-[![Play Store](https://img.shields.io/badge/Download-Step_Tracker-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suyog.StepTracker)
+## 📱 Apps on Google Play Store
 
-- Built with **Jetpack Compose**
-- Real-time step counting using device sensors
-- Clean Material 3 UI
+> **Real apps. Real users. Real downloads.**
 
----
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/💧-AquaAlert-00BCD4?style=for-the-badge" /><br/>
+      <b>AquaAlert</b><br/>
+      <sub>Hydration Reminder App</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-CLI-61DAFB?style=flat&logo=react"/>
+      <img src="https://img.shields.io/badge/Downloads-1700%2B-success?style=flat"/><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.suyogshejal.aquaalert">
+        <img src="https://img.shields.io/badge/▶_Download-Play_Store-green?style=for-the-badge&logo=google-play"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/👟-StepTracker-FF5722?style=for-the-badge" /><br/>
+      <b>Step Tracker</b><br/>
+      <sub>Real-time Pedometer App</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=flat&logo=jetpackcompose"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.suyog.StepTracker">
+        <img src="https://img.shields.io/badge/▶_Download-Play_Store-green?style=for-the-badge&logo=google-play"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/📥-StatusDL-25D366?style=for-the-badge" /><br/>
+      <b>Status Downloader</b><br/>
+      <sub>WhatsApp Status Saver</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Jetpack-Compose-4285F4?style=flat&logo=jetpackcompose"/>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white"/><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.suyogdev.statusdownloaders">
+        <img src="https://img.shields.io/badge/▶_Download-Play_Store-green?style=for-the-badge&logo=google-play"/>
+      </a>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/🌦️-TrueWeather-1E88E5?style=for-the-badge" /><br/>
+      <b>TrueWeather</b><br/>
+      <sub>Real-time Weather App</sub><br/><br/>
+      <img src="https://img.shields.io/badge/React_Native-CLI-61DAFB?style=flat&logo=react"/>
+      <img src="https://img.shields.io/badge/Live-Weather_API-orange?style=flat"/><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.suyogshejal.trueweather">
+        <img src="https://img.shields.io/badge/▶_Download-Play_Store-green?style=for-the-badge&logo=google-play"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 📥 WhatsApp Status Downloader
-[![Play Store](https://img.shields.io/badge/Download-Status_Downloader-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suyogdev.statusdownloaders)
+<div align="center">
 
-- Built with **Jetpack Compose**
-- Save WhatsApp statuses directly to your gallery
-- Lightweight and fast
+### 🔒 Coming Soon — Closed Testing
 
----
+<img src="https://img.shields.io/badge/🥗_Calorie_Tracker-AI_Powered-FF6F00?style=for-the-badge"/>
 
-### 🌦️ TrueWeather
-[![Play Store](https://img.shields.io/badge/Download-TrueWeather-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.suyogshejal.trueweather)
+**Jetpack Compose** • AI Photo Food Scan • Text Log • Smart Suggestions • Built with Gemini AI
 
-- Built with **React Native CLI**
-- Real-time weather updates with a clean UI
-
----
-
-### 🥗 Calorie Tracker *(Coming Soon — Closed Testing)*
-- Built with **Jetpack Compose**
-- **AI-powered** — photo scan food, text log calories, smart suggestions
-- Currently in closed testing — big things coming 🚀
+</div>
 
 ---
 
 ## 🎯 Currently Working On
 
-```text
-🍽️  Calorie Tracker — AI photo scan + text logging (Jetpack Compose)
-🤖  Integrating AI features into Android apps
-📐  Mastering Jetpack Compose animations & architecture patterns
-🌐  Expanding Full Stack skills (React + Node + MySQL)
-```
+<div align="center">
+
+| What | Stack | Status |
+|------|-------|--------|
+| 🥗 Calorie Tracker | Jetpack Compose + AI | 🔒 Closed Testing |
+| ⚡ Compose Animations | Jetpack Compose | 🔨 Learning |
+| 🌐 Full Stack Projects | React + Node + MySQL | 🔨 Building |
+| 📱 New App Ideas | TBD | 💡 Planning |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Mobile
+<div align="center">
+
+### 📱 Mobile Development
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### 🌐 Web & Backend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### 🔧 Tools
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
@@ -111,26 +145,41 @@
 
 <div align="center">
 
-  ![Suyog's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suyogshejal2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=suyogshejal2004&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyogshejal2004&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyogshejal2004&theme=tokyonight&hide_border=true)
+<br/>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyogshejal2004&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=suyogshejal2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suyogshejal2004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
 ---
 
+## 🐍 Contribution Snake
+
 <div align="center">
-  <i>📱 I don't just learn to code — I ship to the Play Store. Check out my apps above!</i>
+
+![snake gif](https://github.com/suyogshejal2004/suyogshejal2004/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 💬 Random Dev Quote
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+<div align="center">
+  <b>📱 I don't just learn to code — I ship to the Play Store 🚀</b><br/>
+  <sub>⭐ Star a repo if you like my work!</sub>
 </div>
