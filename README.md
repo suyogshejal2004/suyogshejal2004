@@ -21,7 +21,7 @@
 ```kotlin
 data class Developer(
     val name: String       = "Suyog Shejal",
-    val location: String   = "Nashik, India 🇮🇳",
+    val location: String   = "pandharpur, India 🇮🇳",
     val role: String       = "Android & Full Stack Developer",
     val appsOnPlayStore: Int = 4,
     val totalDownloads: String = "1700+",
